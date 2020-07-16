@@ -20,7 +20,7 @@
     <!-- small box -->
     <div class="small-box bg-success">
       <div class="inner">
-        <h3>100</h3>
+        <h3>1200</h3>
 
         <p>Category</p>
       </div>
